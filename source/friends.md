@@ -4,3 +4,4 @@ layout: friends
 ---
 
 ## 我的朋友
+多多
